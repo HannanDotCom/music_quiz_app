@@ -9,3 +9,11 @@ Tutorial credits to tutorialsEU for basic implementation guidelines: https://www
 - 5 bespoke questions, with scope to add more
 - A final score results page, when the game is done
 
+## Screenshots
+<div class="container"> 
+<img src="/Screenshot_20220513_200110.png" width="200">
+<img src="Screenshot_20220513_201202.png" width="200">
+</div> 
+
+## Build
+Built and run on Pixel 3XL API 29 emulator in Android Studio, running Android 10.0.
